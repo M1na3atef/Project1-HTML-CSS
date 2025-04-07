@@ -237,6 +237,7 @@ body {
     width: 0;
     height: 0;
     opacity: 0;
+    border-radius: 10px;
     background-color: #296c78;
     top: 0;
     left: 0;
@@ -414,6 +415,7 @@ body {
     height: 0;
     top: 0;
     left: 0;
+    border-radius: 10px;
     background-color: rgba(117, 187, 200, 0.405);
     z-index: -1;
 }
@@ -616,6 +618,7 @@ body {
     height: 0;
     top: 0;
     left: 0;
+    border-radius: 10px;
     background-color: rgba(183, 230, 238, 0.518);
     z-index: -1;
     transition: 0.4s;
@@ -762,6 +765,7 @@ body {
     height: 0;
     top: 0;
     left: 0;
+    border-radius: 10px;
 }
 .team-item:hover::after {
     height: 100%;
@@ -864,6 +868,7 @@ body {
     transition: 0.4s;
     background-color: rgba(107, 194, 209, 0.414);
     z-index: -1;
+    border-radius: 10px;
 }
 .news-item:hover::after {
     height: 100%;
